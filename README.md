@@ -1,6 +1,5 @@
 # ATM-Machine
 
-#  ATM Machine Project (Python)
 
 This is a simple console-based ATM simulation built using Python and Object-Oriented Programming (OOP). It allows basic ATM functionalities like:
 
